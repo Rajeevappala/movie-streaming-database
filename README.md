@@ -37,8 +37,8 @@ The database is designed for platforms like Netflix, where users can subscribe, 
 
 | File | Description |
 |------|-------------|
-| `movie_streaming.sql` | SQL Server script to create the database and all tables |
-| `er_diagram.png` or `er_diagram.pdf` | Database diagram exported from SSMS |
+| `Elevatelabs day1.sql` | SQL Server script to create the database and all tables |
+| `Database Diagaram day 1` | Database diagram exported from SSMS in PDF Format |
 | `README.md` | This documentation file |
 
 ---
@@ -57,22 +57,13 @@ The database is designed for platforms like Netflix, where users can subscribe, 
 
 ---
 
-## 📌 Optional Enhancements
-
-- Add stored procedures for user actions
-- Populate tables with sample data
-- Build queries for reports like “Top Rated Movies,” “Recently Watched,” etc.
-
----
 
 ## 👨‍💻 Author
 
 **Rajeev Appala**  
 Aspiring Data Engineer | SQL | Azure | Python | Databricks  
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/Rajeevappala)
 
 ---
 
-## 📜 License
 
-This project is released under the [MIT License](LICENSE).
